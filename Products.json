@@ -1,0 +1,38 @@
+[
+  {
+    "typeOfProduct": "Meat",
+    "desc": "Beef meat",
+    "startPrice": 5000,
+    "weght": 1
+  },
+  {
+    "typeOfProduct": "Dried fruits",
+    "desc": "From the east",
+    "startPrice": 10000,
+    "weght": 1
+  },
+  {
+    "typeOfProduct": "Corn",
+    "desc": "Resistant to various climatic factors",
+    "startPrice": 15000,
+    "weght": 1
+  },
+  {
+    "typeOfProduct": "Flour",
+    "desc": "The best one",
+    "startPrice": 7000,
+    "weght": 1
+  },
+  {
+    "typeOfProduct": "Fabrics",
+    "desc": "Silk fabric",
+    "startPrice": 13000,
+    "weght": 1
+  },
+  {
+    "typeOfProduct": "Dye",
+    "desc": "Universal paint",
+    "startPrice": 20000,
+    "weght": 1
+  }
+]

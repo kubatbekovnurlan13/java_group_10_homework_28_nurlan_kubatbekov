@@ -1,0 +1,22 @@
+[
+  {
+    "qualityName": "Normal condition",
+    "value": 1.2
+  },
+  {
+    "qualityName": "Slightly flawed",
+    "value": 0.95
+  },
+  {
+    "qualityName": "Half went bad",
+    "value": 0.55
+  },
+  {
+    "qualityName": "Almost all disappeared",
+    "value": 0.25
+  },
+  {
+    "qualityName": "Spoiled into trash",
+    "value": 0.1
+  }
+]
